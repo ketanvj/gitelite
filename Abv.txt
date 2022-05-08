@@ -1,2 +1,17 @@
 Hello This is a text file.
 This is the second line. 
+Added third line. 
+
+Three areas
+- working dire. - 
+- staging - the files which are ready for commit. 
+- commit - update the files into repository.
+
+
+Commit - you are chaging files inside the project. 
+Git stores
+Your email ID, your name, and why did you commit, what did you commit. 
+Unique ID to this information. - Commit ID.
+
+Subhojit wants Git to ignore those files.
+
