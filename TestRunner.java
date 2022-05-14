@@ -35,7 +35,7 @@ import io.cucumber.testng.FeatureWrapper;
 
 public class TestRunner extends AbstractTestNGCucumberTests {
 	WebDriver driver;
-   // private TestNGCucumberRunner testNGCucumberRunner; This is added from GitHub
+   // private TestNGCucumberRunner testNGCucumberRunner; This is added from GitHub. Added again
   
        
 	/*
