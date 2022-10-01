@@ -1,6 +1,7 @@
 Hello This is a text file.
 This is the second line. 
 Added third line. 
+added new line
 
 Three areas
 - working dire. - 
